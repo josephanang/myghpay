@@ -1,5 +1,5 @@
-# myghpay
-payment options
+# Myghpay-php
+MYGHPAY CLIENT INTEGRATION PHP
 
 ----- In payment.php file ------
 
